@@ -1,0 +1,16 @@
+#divstudentlistlabel
+{
+	text-align: center;
+	background-color: gray;
+	color: white;
+}
+#tblstudentlist
+{
+	border: 0;
+	width: 100%;
+}
+.divsearch
+{
+	text-align: center;
+	color: gray;
+}
